@@ -16,7 +16,7 @@ library(igraph)
 
 # Einlesen der Edge- und Nodelist
 el <- read.csv("https://raw.githubusercontent.com/Kevin-K-R/EgoNetzwerk/master/edges.csv", header=T, as.is=T, sep = ",")
-nodes <- read.csv("https://raw.githubusercontent.com/hdm-crpr/226305/master/data/egonetwork/nodes.csv", header=T, as.is=T, sep = ",")
+nodes <- read.csv("https://raw.githubusercontent.com/Kevin-K-R/EgoNetzwerk/master/nodes.csv", header=T, as.is=T, sep = ",")
 
 # Matrix erstellen
 edgematrix <-as.matrix(el)
