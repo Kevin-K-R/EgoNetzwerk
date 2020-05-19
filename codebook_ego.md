@@ -13,7 +13,6 @@ from = ID des Knoten
 to = ID des Knoten (Richtung)
   
 *weight* 
-Beziehungsgewicht für Frage 2.1, codiert als   
 1 = weniger als ein Mal im Monat,  
 2 = mindestens ein Mal im Monat,  
 3 = mindestens ein Mal pro Woche,  
@@ -33,7 +32,8 @@ Beziehungsgewicht für Frage 2.1, codiert als
 6 = Kommilitone,   
 7 = Mitglied in gleicher Gruppe (Sport, Verein, Kirche, etc.),   
 8 = Ratgeber (z.B. Anwalter, Berater, Therapeut, spiritueller Beistand, etc.),   
-9 = feste Beziehung / Partnerschaft.
+9 = feste Beziehung / Partnerschaft,
+10 = Freund/Freundin.
   
 ## Nodelist
 Die Nodelist erfasst alle soziodemographischen Daten. Dazu gehören auch ihre eigenen ;-).
@@ -44,18 +44,14 @@ ID muss identisch zur Edgelist sein (z.B. Name, Abkürzung, etc.)
 *sex* (Geschlecht)  
 1 = weiblich,  
 2 = männlich,  
-3 = divers,  
+3 = divers.  
 
 *ethnicity* (Herkunft)  
 1 = deutsch,   
 2 = Mittel/Osteuropa (auch UK),  
 3 = Südeuropa,  
 4 = Asien, 
-5 = Skandinavien,  
-6 = Südamerika,  
-7 = Nordamerika,  
-8 = Russland,  
-9 = Afrika  
+5 = anderes Land. 
 
 *age*  
 1 = unter 18,  
