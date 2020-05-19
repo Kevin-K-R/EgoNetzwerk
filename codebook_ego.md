@@ -27,13 +27,13 @@ to = ID des Knoten (Richtung)
 1 = Eltern oder Kinder (Verwandtschaft ersten Grades),  
 2 = Geschwister (Verwandtschaft ersten Grades),  
 3 = Verwandtschaft zweiten Grades (Onkel, Tante),   
-4 = Nachbarn,   
+4 = Freund/Freundin,   
 5 = Arbeitskollege,   
 6 = Kommilitone,   
 7 = Mitglied in gleicher Gruppe (Sport, Verein, Kirche, etc.),   
 8 = Ratgeber (z.B. Anwalter, Berater, Therapeut, spiritueller Beistand, etc.),   
-9 = feste Beziehung / Partnerschaft,
-10 = Freund/Freundin.
+9 = feste Beziehung / Partnerschaft.
+
   
 ## Nodelist
 Die Nodelist erfasst alle soziodemographischen Daten. Dazu gehören auch ihre eigenen ;-).
