@@ -5,7 +5,7 @@ output: html_notebook
 
 In diesem Notebook finden Sie das Beispiel, um das eigene Ego-Netzwerk zu visualisieren.
 
-Datensatz: https://github.com/hdm-crpr/226305/tree/master/data/egonetwork
+Datensatz: https://github.com/Kevin-K-R/EgoNetzwerk/tree/master
 Codebuch: https://github.com/hdm-crpr/226305/blob/master/data/egonetwork/codebook_ego.md
 
 
